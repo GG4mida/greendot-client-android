@@ -10,21 +10,17 @@
 
 登录页：
 
-<img src="https://github.com/kangmuyang/greendot-client-android/raw/main/screen/login.png" style="width:320px" alt="login"/>
+![login](https://github.com/kangmuyang/greendot-client-android/raw/main/screen/login.png)
 
 首页：
 
-<img src="https://github.com/kangmuyang/greendot-client-android/raw/main/screen/home.png" style="width:320px" alt="home"/>
+![home](https://github.com/kangmuyang/greendot-client-android/raw/main/screen/home.png)
 
 ### 介绍
 
-该客户端启动后，会从远程服务器拉取节点列表，而节点本身，其实就是通过 ss 搭建的服务。成功拉取节点后，启动加速服务，其实就是运行LocalVpnService 这个服务，这里不再详述，感兴趣的可以直接看代码。
+该客户端启动后，会从远程服务器拉取节点列表，而节点本身，其实就是通过 ss 搭建的服务。成功拉取节点后，启动加速服务，其实就是运行 LocalVpnService 这个服务，这里不再详述，感兴趣的可以直接看代码。
 
 ### 注意
 
 - 代码仅供参考，本地肯定是跑不起来的（因为没有远程接口服务）。
 - 时间来到了2020年，加速器等相关软件属于国家明令禁止的，请勿将代码应用于商业用途。
-
-
-
-
