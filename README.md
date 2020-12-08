@@ -10,11 +10,11 @@
 
 登录页：
 
-![login](https://github.com/kangmuyang/greendot-client-android/raw/main/screen/login.png =360)
+![login](https://github.com/kangmuyang/greendot-client-android/raw/main/screen/login.png)
 
 首页：
 
-![home](https://github.com/kangmuyang/greendot-client-android/raw/main/screen/home.png =360)
+![home](https://github.com/kangmuyang/greendot-client-android/raw/main/screen/home.png)
 
 ### 介绍
 
