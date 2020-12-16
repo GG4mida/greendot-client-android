@@ -8,6 +8,8 @@
 
 ### 截图
 
+> 如截图无法加载请开启FQ软件。
+
 登录页：
 
 <img src="https://github.com/GG4mida/greendot-client-android/blob/main/screen/login.png?raw=true" width="360" alt="登录页"/>
