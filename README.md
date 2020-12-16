@@ -10,11 +10,11 @@
 
 登录页：
 
-![login](https://github.com/kangmuyang/greendot-client-android/raw/main/screen/login.png)
+<img src="https://github.com/GG4mida/greendot-client-android/blob/main/screen/login.png?raw=true" width="360" alt="登录页"/>
 
 首页：
 
-![home](https://github.com/kangmuyang/greendot-client-android/raw/main/screen/home.png)
+<img src="https://github.com/GG4mida/greendot-client-android/blob/main/screen/home.png?raw=true" width="360" alt="首页"/>
 
 ### 介绍
 
